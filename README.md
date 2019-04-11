@@ -1,2 +1,2 @@
-# 02_molly
-https://aurelien-gosse.github.io/02_molly/
+# molly
+https://aurelien-gosse.github.io/molly/
